@@ -1,2 +1,2 @@
-# Android-Galicia
-Trabajo Android charla Galicia Galpon
+# Charla Android Galpon
+Trabajo Android charla Galicia.
