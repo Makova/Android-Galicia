@@ -11,7 +11,7 @@ cambiando la parte del nombre **Wheezy** por el de **Jessie** o **testing**, en 
 
 O desde **Synaptic**:
 
-![Synaptic (2)](images/synaptic.png)
+![Synaptic](https://github.com/Makova/Android-Galicia/blob/master/imagenes/synaptic.png)
 
 He preferido utilizar Debian en la versión considerada como testing (Jessie) por disponer de paquetes y programas más actualizados que la rama stable (Wheezy), de esta manera nos aseguramos que las herramientas y programas para trabajar con emulación, cocina y Android studio será menos complicada.
 También se podría haber utilizado Ubuntu 14.04 con un entorno más liviano como Gnome-classic o XFCE, pero Debian por algo es "papa" de Ubuntu y derivadas, teniendo mucha información y una gran comunidad detrás. El hecho de apuntar los repositorios de Debian Wheezy a la rama testing (Jessie) es como estar en la stable de Ubuntu 14.04, en lo que a actualizaciones se refiere.
