@@ -7,7 +7,7 @@ Después de instalar [Debain Wheezy](http://cdimage.debian.org/debian-cd/7.8.0/i
 
 cambiando la parte del nombre **Wheezy** por el de **Jessie** o **testing**, en las siguientes líneas del archivo y aconsejable también añadir los **non-free** y **backports** como se ve en la siguiente captura:
 
-https://github.com/Makova/Android-Galicia/blob/master/imagenes/SourceList.png
+![Sources.list](https://github.com/Makova/Android-Galicia/blob/master/imagenes/SourceList.png)
 
 O desde **Synaptic**:
 
