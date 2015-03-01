@@ -18,7 +18,7 @@ También se podría haber utilizado Ubuntu 14.04 con un entorno más liviano com
 
 # Java de Oracle
 
-Yo siempre he instalado [http://www.oracle.com/technetwork/java/javase/downloads/index.html](Java de Oracle) desde la propia web, pero también se puede por repositorios de [http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html](Webupd8) o desde Synaptic los OpenJDK mantenidos por la comunidad.
+Yo siempre he instalado (http://www.oracle.com/technetwork/java/javase/downloads/index.html)[Java de Oracle] desde la propia web, pero también se puede por repositorios de (http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html)[Webupd8] o desde Synaptic los OpenJDK mantenidos por la comunidad.
 Recomiendo la versión 7 de Java por no dar problemas en el desarrollo con Android. También especificar la monglatura de Java, JDK y JRE:
 
 * JDK > "Java Development Kit" (Kit de desarrollo Java) > Versión para los desarrolladores. Incluye el compilador de Java (javac), JRE y JVM.
