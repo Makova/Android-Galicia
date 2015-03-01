@@ -1,7 +1,7 @@
 # Instalación Debian Wheezy i386
 
 
-Después de instalar [http://cdimage.debian.org/debian-cd/7.8.0/i386/iso-cd/ Debain Wheezy], se aconseja la arquitectura i386 para no tener problemas con las dependencias, es apuntar los repositorios a la versión '''testing''' (Jessie). Esto lo podemos realizar desde el '''sources.list''' con el siguiente comando en una terminal:
+Después de instalar [Debain Wheezy](http://cdimage.debian.org/debian-cd/7.8.0/i386/iso-cd/), se aconseja la arquitectura i386 para no tener problemas con las dependencias, es apuntar los repositorios a la versión **testing** (*Jessie*). Esto lo podemos realizar desde el **sources.list** con el siguiente comando en una terminal:
 
 `sudo nano /etc/apt/sources.list`
 
