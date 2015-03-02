@@ -58,3 +58,10 @@ Seleccionamos la opción que contenga "jdk1.7.0".
 
 Fuente de instalacion Java: [Ubuntu-guia](http://www.ubuntu-guia.com/2012/04/instalar-oracle-java-7-en-ubuntu-1204.html)
 
+
+# La cocina (Android-Kitchen)
+
+Podemos descargar la cocina de [dsixda](https://github.com/dsixda/Android-Kitchen) portada por [Javilonas en GitHub](https://github.com/javilonas/Android-Kitchen).
+Descargamos el .zip y lo descomprimimos, quedando una carpeta como Android-Kitchen como muestra el siguiente pantallazo:
+
+
