@@ -64,4 +64,4 @@ Fuente de instalacion Java: [Ubuntu-guia](http://www.ubuntu-guia.com/2012/04/ins
 Podemos descargar la cocina de [dsixda](https://github.com/dsixda/Android-Kitchen) portada por [Javilonas en GitHub](https://github.com/javilonas/Android-Kitchen).
 Descargamos el .zip y lo descomprimimos, quedando una carpeta como Android-Kitchen como muestra el siguiente pantallazo:
 
-
+![Android-Kitchen](https://github.com/Makova/Android-Galicia/blob/master/imagenes/Kitchen.png)
