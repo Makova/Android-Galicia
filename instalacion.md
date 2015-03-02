@@ -7,11 +7,11 @@ Guía de instalación [Instalación](https://www.debian.org/releases/stable/i386
 
 cambiando la parte del nombre **Wheezy** por el de **Jessie** o **testing**, en las siguientes líneas del archivo y aconsejable también añadir los **non-free** y **backports** como se ve en la siguiente captura:
 
-![Sources.list](https://github.com/Makova/Android-Galicia/blob/master/imagenes/SourceList.png)
+![Sources.list](https://github.com/Makova/Android-Galicia/blob/master/imagenes/AndroGit1.png)
 
 O desde **Synaptic**:
 
-![Synaptic](https://github.com/Makova/Android-Galicia/blob/master/imagenes/synaptic.png)
+![Synaptic](https://github.com/Makova/Android-Galicia/blob/master/imagenes/AndroGit2.png)
 
 He preferido utilizar Debian en la versión considerada como testing (Jessie) por disponer de paquetes y programas más actualizados que la rama stable (Wheezy), de esta manera nos aseguramos que las herramientas y programas para trabajar con emulación, cocina y Android studio será menos complicada.
 También se podría haber utilizado Ubuntu 14.04 con un entorno más liviano como Gnome-classic o XFCE, pero Debian por algo es "papa" de Ubuntu y derivadas, teniendo mucha información y una gran comunidad detrás. El hecho de apuntar los repositorios de Debian Wheezy a la rama testing (Jessie) es como estar en la stable de Ubuntu 14.04, en lo que a actualizaciones se refiere.
@@ -64,7 +64,7 @@ Fuente de instalacion Java: [Ubuntu-guia](http://www.ubuntu-guia.com/2012/04/ins
 Podemos descargar la cocina de [dsixda](https://github.com/dsixda/Android-Kitchen) portada por [Javilonas en GitHub](https://github.com/javilonas/Android-Kitchen).
 Descargamos el .zip y lo descomprimimos, quedando una carpeta como Android-Kitchen como muestra el siguiente pantallazo:
 
-![Android-Kitchen](https://github.com/Makova/Android-Galicia/blob/master/imagenes/kitchen.png)
+![Android-Kitchen](https://github.com/Makova/Android-Galicia/blob/master/imagenes/AndroGit3.png)
 
 Abrimos una terminal y dentro de nuestra carpeta personal `cd` lanzamos la Kitchen para ver las opciones:
 
@@ -72,7 +72,7 @@ Abrimos una terminal y dentro de nuestra carpeta personal `cd` lanzamos la Kitch
 
 Apareciendo las siguientes opciones de cocinar una ROM Android:
 
-![Opciones cocina](https://github.com/Makova/Android-Galicia/blob/master/imagenes/Kitchen1.png)
+![Opciones cocina  (1)](imagenes/AndroGit4.png)
 
 Salimos con la letra `x`
 
