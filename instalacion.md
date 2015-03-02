@@ -65,3 +65,7 @@ Podemos descargar la cocina de [dsixda](https://github.com/dsixda/Android-Kitche
 Descargamos el .zip y lo descomprimimos, quedando una carpeta como Android-Kitchen como muestra el siguiente pantallazo:
 
 ![Android-Kitchen](https://github.com/Makova/Android-Galicia/blob/master/imagenes/kitchen.png)
+
+Abrimos una terminal y dentro de nuestra carpeta personal `cd` lanzamos la Kitchen para ver las opciones:
+
+
