@@ -68,4 +68,11 @@ Descargamos el .zip y lo descomprimimos, quedando una carpeta como Android-Kitch
 
 Abrimos una terminal y dentro de nuestra carpeta personal `cd` lanzamos la Kitchen para ver las opciones:
 
+`./menu`
+
+Apareciendo las siguientes opciones de cocinar una ROM Android:
+
+![Opciones cocina](https://github.com/Makova/Android-Galicia/blob/master/imagenes/Kitchen1.png)
+
+Salimos con la letra `x`
 
