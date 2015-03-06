@@ -109,7 +109,11 @@ Quedando las carpetas de la Kitchen así:
 
 ![kitchen7](imagenes/AndroGit14.png)
 
+Ojo, en el paso siguiente nos pide permisos para extraer archivos:
 
+![kitchen8](imagenes/AndroGit15.png)
+
+![kitchen9](imagenes/AndroGit16.png)
 
 
 
