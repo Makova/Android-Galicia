@@ -117,7 +117,7 @@ Aceptamos y podemos ponerle un nombre o dejarlo todo por defecto, obteniendo el 
 
 Podemos salir de la terminal y entar en la rom descompactada para comenzar a eliminar app que no vamos a utilizar, a este proceso se le denomina como "Litear" o hacer un "Liteo"
 
-![liteo](imagenes/AndorGit17.png)
+![liteo](imagenes/AndroGit17.png)
 
 Dejaremos por ahora el liteo que no todo se puede eliminar :-)
 
