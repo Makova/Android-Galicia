@@ -99,10 +99,6 @@ Ahora ya si lo copiamos en la carpeta original_update de la Kitchen como muestra
 
 ![kitchen4](imagenes/AndroGit11.png)
 
-Aceptamos y podemos ponerle un nombre o dejarlo todo por defecto, obteniendo el siguiente resultado:
-
-![kitchen5](imagenes/AndroGit12.png)
-
 Quedando las carpetas de la Kitchen así:
 
 ![kitchen6](imagenes/AndroGit13.png)
@@ -114,6 +110,14 @@ Ojo, en el paso siguiente nos pide permisos para extraer archivos:
 ![kitchen8](imagenes/AndroGit15.png)
 
 ![kitchen9](imagenes/AndroGit16.png)
+
+Aceptamos y podemos ponerle un nombre o dejarlo todo por defecto, obteniendo el siguiente resultado:
+
+![kitchen5](imagenes/AndroGit12.png)
+
+
+
+
 
 
 
