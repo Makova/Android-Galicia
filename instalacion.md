@@ -76,3 +76,14 @@ Apareciendo las siguientes opciones de cocinar una ROM Android:
 
 Salimos con la letra `x`
 
+Ahora desacrgamos una rom de [Sammobile](http://www.sammobile.com/firmwares/) del modelo que queramos cocinar, pongo de ejemplo Samsung ya que es con la marca de móvil que más he cocinado. En este caso he bajado la del Samsung Galaxy S5 G900F, versión de Android 5.0 Lollipop SDK21.
+Con el siguiente número **G900FXXU1BNL9** ya que lo mejor es descargar una rom Libre que no pertenezca a ninguna compañía teléfonica, siendo del país que queramos, en este caso de [United Kingdom](http://www.sammobile.com/firmwares/download/42528/G900FXXU1BNL9_G900FEVR1BNL3_EVR/).
+
+
+
+
+
+
+
+
+
