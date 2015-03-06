@@ -66,7 +66,7 @@ Descargamos el .zip y lo descomprimimos, quedando una carpeta como Android-Kitch
 
 ![Android-Kitchen](imagenes/AndroGit3.png)
 
-Abrimos una terminal y dentro de nuestra carpeta personal `cd` lanzamos la Kitchen para ver las opciones:
+Abrimos una terminal y damos permisos `sudo chmod +x menu` dentro de nuestra carpeta personal `cd` lanzamos la Kitchen para ver las opciones:
 
 `./menu`
 
@@ -77,7 +77,54 @@ Apareciendo las siguientes opciones de cocinar una ROM Android:
 Salimos con la letra `x`
 
 Ahora desacrgamos una rom de [Sammobile](http://www.sammobile.com/firmwares/) del modelo que queramos cocinar, pongo de ejemplo Samsung ya que es con la marca de móvil que más he cocinado. En este caso he bajado la del Samsung Galaxy S5 G900F, versión de Android 5.0 Lollipop SDK21.
-Con el siguiente número **G900FXXU1BNL9** ya que lo mejor es descargar una rom Libre que no pertenezca a ninguna compañía teléfonica, siendo del país que queramos, en este caso de [United Kingdom](http://www.sammobile.com/firmwares/download/42528/G900FXXU1BNL9_G900FEVR1BNL3_EVR/).
+Con el siguiente número **BTU-G900FXXU1BOB7-20150223084756** ya que lo mejor es descargar una rom Libre que no pertenezca a ninguna compañía teléfonica, siendo del país que queramos. Lo que hacemos entre la comunidad es compartir las rom de Sammobile por la nube y de esta manera no tener que pasar por el tiempo de descarga (unas 5 horas dependiendo de la tarifa de cada uno).
+Vamos a cocinar la ROM:
+
+* Descomprimir el **.zip** para extraer el archivo **tar.md5** `G900FXXU1BOB7_G900FOXA1BOB7_G900FXXU1BOB7_HOME.tar.md5`renombrando a **.tar** sin el **.md5** del hash.
+Ahora ya si lo copiamos en la carpeta original_update de la Kitchen como muestra el pantallazo:
+
+![carpetas](imagenes/AndroGit6.png)
+
+![original_update](imagenes/AndroGit5.png)
+
+* Abrimos la Kitchen desde una terminal y extraemos la ROM con la opción **1** y aceptamos:
+
+![Kitchen](imagenes/AndroGit7.png)
+
+![kitchen1](imagenes/AndroGit8.png)
+
+![kitchen2](imagenes/AndroGit9.png)
+
+![kitchen3](imagenes/AndroGit10.png)
+
+![kitchen4](imagenes/AndroGit11.png)
+
+Aceptamos y podemos ponerle un nombre o dejarlo todo por defecto, obteniendo el siguiente resultado:
+
+![kitchen5](imagenes/AndroGit12.png)
+
+Quedando las carpetas de la Kitchen así:
+
+![kitchen6](imagenes/AndroGit13.png)
+
+![kitchen7](imagenes/AndroGit14.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
