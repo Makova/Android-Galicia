@@ -119,7 +119,7 @@ Podemos salir de la terminal y entar en la rom descompactada para comenzar a eli
 
 ![liteo](imagenes/AndroGit17.png)
 
-Dejaremos por ahora el liteo que no todo se puede eliminar :-)
+Dejaremos por ahora el [liteo](http://www.esp-desarrolladores.com/showthread.php?t=3066) que no todo se puede eliminar :-)
 
 Seguimos.
 
