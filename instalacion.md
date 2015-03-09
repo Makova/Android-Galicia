@@ -123,6 +123,10 @@ Dejaremos por ahora el [liteo](http://www.esp-desarrolladores.com/showthread.php
 
 Seguimos.
 
+Aclarar que la cocina Android que estoy utilizando es para dispositivos Samsung. Hoy día las capas de personalizacion comienzan a no ser tan intrusivas y devoradoras de RAM y por tanto de los recursos de nuestros móviles, que dicho de paso, se venden con más memoria RAM y mejores procesadores. Las capas de personalizacion, en este caso Samsung, no deja de ser un escollo en a la hora de recibir actualizaciones al ritmo de las que realiza el propio Google con Android. Esto es debido a que las compañías tienen que trabajar sobre esa actualización y la capa que imponen en sus dispositivos demorándose considerablemente en liberar dichas actualizaciones y que en el caso de algunos dispositivos hasta dejen de actualizarlos, como el S3, que fue uno de los modelos más vendidos por Samsung y al que relegaron a una versión de Android 4.3 por disponer de 1 GB de RAM. Motivo infundado e infumable, solo hay que ver los port y rom basadas en Android 4.4 y 5.0 funcionando perfectamente.
+
+
+
 
 
 
