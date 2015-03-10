@@ -130,10 +130,43 @@ Seguimos.
 > Pero las capas de personalización, en este caso Samsung, no han dejado ni dejan de ser un escollo a la hora de recibir actualizaciones al ritmo de las que realiza el propio Google con Android. Esto es debido a que las compañías tienen que trabajar sobre esa actualización y la capa que imponen en sus dispositivos, demorándose considerablemente en liberar dichas actualizaciones y que en el caso de algunos dispositivos hasta dejen de actualizarlos, como el S3, que fue uno de los modelos más vendidos por Samsung y al que relegaron a una versión definitiva de Android 4.3 por disponer de "solo" 1 GB de RAM.  > Motivo infundado e infumable, solo hay que ver los port y rom basadas en Android 4.4 y 5.0 funcionando perfectamente en ese modelo. Por este motivo el hecho de que en modelos anteriores de Samsung esas mismas capas de personalización eran un obstáculo a la hora de poder tener un SO Android "puro" para aprovechar todo el potencial del dispositivo elegido, o por lo menos que no se ralentizara y la batería se agotase sin terminar el día, a parte de no poder quitar o congelar la cantidad de app que no íbamos a utilizar nunca o nos eran innecesarias para un uso cotidiano y personalizado. A nivel personal creo que la cocina en Android nació para poder mejorar este añadido de personalización por compañías como Samsung, una de las que más dispositivos con Android ha vendido a lo largo de estos años, sin menospreciar a otras marcas como LG, HTC, Sony, etc...
 
 
+## Las opciones de la Kitchen:
 
+* **1** Crea el espacio de trabajo y desempaqueta la ROM.
 
+* **2**  Rootea
 
+* **3**  Añade BusyBox. No es más que un conjunto de herramientas habituales en UNIX y que no están en Android
 
+* **4**  Elimina el sonido al encender el móvil
+
+* **5**  Alinea todos los paquetes .apk para optimizar el uso de la RAM. Esta opción no la utilizaremos porque lo haremos al construir la ROM
+
+* **6**  Establece si la ROM realizará los wipes, es mejor que esa operación la hagan los usuarios para no borrar datos sin necesidad
+
+* **7**  Cambiar el nombre de compilación. También se puede editar el archivo [build.prop](http://www.htcmania.com/showthread.php?t=549296)
+
+* **8**  Muestra toda la información de la ROM, nos será de utilidad para saber qué hemos hecho y qué queda
+
+### 0. Advanced Options
+
+* **11**  “Deodexa” los paquetes. Las ROMs oficiales incorporan los paquetes divididos en un archivo [.apk](http://es.wikipedia.org/wiki/APK_%28formato%29) y otro [.odex](http://www.digitalika.com/2013/03/cual-es-la-diferencia-entre-odex-y-deodex-en-android/). Con esto se acelera el arranque del dispositivo la primera vez que se inicia. Sin embargo, cuando lo que se pretende es modificarlos, es un problema porque no podemos acceder al contenido por estar dividido. Esta opción los vuelve a unificar. La parte negativa es que la primera vez que se inicie la ROM tardará un poco, el resto de veces iniciará rápido
+
+* **12**  Desempaqueta/empaqueta el kernel, esta opción es mejor no tocarla si no sabemos qué estamos haciendo
+
+* **13**  Añade el soporte para el directorio /data/app. Las aplicaciones que integremos en la carpeta /system/app no pueden estar firmadas, por este motivo, si queremos añadir más aplicaciones lo habitual es que estén firmadas, así que no funcionarán. La solución es añadir este directorio y meter aquí dichas apps
+
+* **14**  Esta opción añade soporte para el directorio /etc/init.d, su utilizad es ejecutar todos los scripts que se encuentren en él en cada inicio del móvil
+
+* **15**  Desempaqueta el archivo data.img
+
+* **16**  Firma un apk o un .zip
+
+* **17**  Convierte el script de instalación del formato update-script a updater-script. Se hace automáticamente al construir la ROM, así que no es necesario que lo hagamos
+
+* **18**  Plugins de la cocina
+
+Fuente opciones Kitchen: [joshelu.es](http://www.joshelu.es/2013/05/07/como-cocinar-nuestra-propia-rom-para-android-la-cocina/#sthash.xk8PKVIP.dpbs)
 
 
 
