@@ -123,7 +123,7 @@ Dejaremos por ahora el [liteo](http://www.esp-desarrolladores.com/showthread.php
 
 Seguimos.
 
-> Aclarar que la cocina Android que estoy utilizando es para dispositivos Samsung. Para las [Rom Miui](http://miui.es/index.php?topic=181.0) se puede realizar de forma muy parecida y utilizando la misma [Kitchen]().
+> Aclarar que la cocina Android que estoy utilizando es para dispositivos Samsung. Para las [Rom Miui](http://miui.es/index.php?topic=181.0) se puede realizar de forma muy parecida y utilizando la misma [Kitchen](http://forum.xda-developers.com/showthread.php?t=633246).
 
 > Hoy día las capas de personalización comienzan a no ser tan intrusivas y devoradoras de RAM y por tanto de los recursos de nuestros móviles, que dicho sea de paso, se venden con más memoria y mejores procesadores. 
 
