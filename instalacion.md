@@ -148,7 +148,7 @@ Seguimos.
 
 * **8**  Muestra toda la información de la ROM, nos será de utilidad para saber qué hemos hecho y qué queda
 
-### 0. Advanced Options
+### **0** *Advanced Options*
 
 * **11**  “Deodexa” los paquetes. Las ROMs oficiales incorporan los paquetes divididos en un archivo [.apk](http://es.wikipedia.org/wiki/APK_%28formato%29) y otro [.odex](http://www.digitalika.com/2013/03/cual-es-la-diferencia-entre-odex-y-deodex-en-android/). Con esto se acelera el arranque del dispositivo la primera vez que se inicia. Sin embargo, cuando lo que se pretende es modificarlos, es un problema porque no podemos acceder al contenido por estar dividido. Esta opción los vuelve a unificar. La parte negativa es que la primera vez que se inicie la ROM tardará un poco, el resto de veces iniciará rápido
 
