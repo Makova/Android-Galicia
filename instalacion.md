@@ -197,7 +197,25 @@ Algunos pantallazos de la cocina en acción, deodexando, haciendo root, etc. Al 
 
 # APK-Manager
 
-* Trabajando en las .apk de Android
+* Trabajando en las **.apk** de Android
+
+. Descargamos la última versión de apk-manager para Linux desde [apkmultitool](http://apkmultitool.com/?q=node/5) la versión 5.0
+. Descomprimimos el archivo **.zip** en la carpeta personal, mejor en nuestra **/Home** quedando la carpeta **apk_manager_linux_5.0**
+. Entramos en ella desde una terminal con `cd apk_manager_linux_5.0` y damos permisos con chmod `sudo chmod 755 Script.sh` y dentro 
+de la carpeta **other** `cd other` al resto de archivos `sudo chmod 755 7za apktool.jar apktool optipng testkey.pk8 testkey.x509.pem signapk.jar aapt`
+. Lanzamos el apk-manager con el siguiente comando `./Scrip.sh` si queremos podemos renombrar `Script.sh` por `script.sh` funciona igual.
+
+![apk-manager](imagenes/AndroGit40.png)
+
+El **.apk** que queramos modificar debemos de extraerlo de la ROM en la ruta **/system/app** en el archivo de trabajo que creamos en la Kitchen
+
+![extraer-apk](imagenes/AndroGit47.png)
+
+> Copiar el **.apk** a modificar en la carpeta **"place-apk-here-for-modding"**.
+
+![apk-manager](imagenes/AndroGit41.png)
+
+
 
 
 
