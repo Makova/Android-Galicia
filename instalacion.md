@@ -85,8 +85,6 @@ Ahora ya si lo copiamos en la carpeta original_update de la Kitchen como muestra
 
 ![carpetas](imagenes/AndroGit6.png)
 
-![carpetas](imagenes/AndroGit31.png)
-
 ![original_update](imagenes/AndroGit5.png)
 
 * Abrimos la Kitchen desde una terminal y extraemos la ROM con la opción **1** y aceptamos:
@@ -94,6 +92,8 @@ Ahora ya si lo copiamos en la carpeta original_update de la Kitchen como muestra
 ![Kitchen](imagenes/AndroGit7.png)
 
 ![kitchen1](imagenes/AndroGit8.png)
+
+![carpetas1](imagenes/AndroGit31.png)
 
 ![kitchen2](imagenes/AndroGit9.png)
 
