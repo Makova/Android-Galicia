@@ -215,11 +215,11 @@ de la carpeta **other** `cd other` al resto de archivos `sudo chmod 755 7za apkt
 
 ![apk-manager](imagenes/AndroGit41.png)
 
+* Damos a la opción **1** para crear la carpeta **out** y salimos, aunque nos elimine el número **1** al teclear *Enter* se creará la carpeta,
+y por algún bug que se me escapa, se elimina la **.apk** que habíamos puesto en la carpeta **place-apk-here-for-modding**. Volvemos a copiar la **.apk**
+y entramos de nuevo en *apk_manager_linux_5.0* y ya si damos de nuevo a la opción **1** y nos descompactará la **.apk** que hayamos puesto
 
-
-
-
-
+![descompactando](imagenes/AndroGit43.png)
 
 
 
