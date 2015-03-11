@@ -170,9 +170,34 @@ Seguimos.
 
 Fuente opciones Kitchen: [joshelu.es](http://www.joshelu.es/2013/05/07/como-cocinar-nuestra-propia-rom-para-android-la-cocina/#sthash.xk8PKVIP.dpbs)
 
+Algunos pantallazos de la cocina en acción, deodexando, haciendo root, etc. Al final se comprime todo en un archivo .zip que será el que se utiliza para flashear la ROM ya cocinada por el [Recovery](https://getmovil.com/android/instalar-cwm-twrp-recovery/) que tengamos en nuestro dispositivo:
+
+![cocinando](imagenes/AndroGit20.png)
+
+![cocinando](imagenes/AndroGit21.png)
+
+![cocinando](imagenes/AndroGit22.png)
+
+![cocinando](imagenes/AndroGit23.png)
+
+![cocinando](imagenes/AndroGit24.png)
+
+![cocinando](imagenes/AndroGit25.png)
+
+![cocinando](imagenes/AndroGit26.png)
+
+![cocinando](imagenes/AndroGit27.png)
+
+![cocinando](imagenes/AndroGit28.png)
+
+![cocinando](imagenes/AndroGit29.png)
+
+![cocinando](imagenes/AndroGit30.png)
 
 
+# APK-Manager
 
+* Trabajando en las .apk de Android
 
 
 
