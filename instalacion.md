@@ -203,7 +203,7 @@ Algunos pantallazos de la cocina en acción, deodexando, haciendo root, etc. Al 
 *  Descomprimimos el archivo **.zip** en la carpeta personal, mejor en nuestra **/Home** quedando la carpeta **apk_manager_linux_5.0**
 * Entramos en ella desde una terminal con `cd apk_manager_linux_5.0` y damos permisos con chmod `sudo chmod 755 Script.sh` y dentro 
 de la carpeta **other** `cd other` al resto de archivos `sudo chmod 755 7za apktool.jar apktool optipng testkey.pk8 testkey.x509.pem signapk.jar aapt`
-* Lanzamos el apk-manager con el siguiente comando `./Scrip.sh` si queremos podemos renombrar `Script.sh` por `script.sh` funciona igual.
+* Lanzamos el apk-manager con el siguiente comando `./Script.sh` si queremos podemos renombrar `Script.sh` por `script.sh` funciona igual.
 
 ![apk-manager](imagenes/AndroGit40.png)
 
