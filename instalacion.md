@@ -76,14 +76,16 @@ Apareciendo las siguientes opciones de cocinar una ROM Android:
 
 Salimos con la letra `x`
 
-Ahora desacrgamos una rom de [Sammobile](http://www.sammobile.com/firmwares/) del modelo que queramos cocinar, pongo de ejemplo Samsung ya que es con la marca de móvil que más he cocinado. En este caso he bajado la del Samsung Galaxy S5 G900F, versión de Android 5.0 Lollipop SDK21.
-Con el siguiente número **BTU-G900FXXU1BOB7-20150223084756** ya que lo mejor es descargar una rom Libre que no pertenezca a ninguna compañía teléfonica, siendo del país que queramos. Lo que hacemos entre la comunidad es compartir las rom de Sammobile por la nube y de esta manera no tener que pasar por el tiempo de descarga (unas 5 horas dependiendo de la tarifa de cada uno).
+Ahora desacrgamos unas rom de [Sammobile](http://www.sammobile.com/firmwares/) del modelo que queramos cocinar, pongo de ejemplo Samsung ya que es con la marca de móvil que más he cocinado. En este caso he bajado la del Samsung Galaxy S5 G900F y del Samsung S4 i9500, versiones de Android 5.0 Lollipop SDK21 y Android 4.2.2 SDK19 respectivamente.
+Con los siguientes números **BTU-G900FXXU1BOB7-20150223084756.zip** **I9195UBUBNE2_I9195ZTOBNE2_ZTO.zip** ya que lo mejor es descargar una rom Libre que no pertenezca a ninguna compañía teléfonica, siendo del país que queramos. Lo que hacemos entre la comunidad es compartir las rom de Sammobile por la nube y de esta manera no tener que pasar por el tiempo de descarga (unas 5 horas dependiendo de la tarifa de cada uno).
 Vamos a cocinar la ROM:
 
-* Descomprimir el **.zip** para extraer el archivo **tar.md5** `G900FXXU1BOB7_G900FOXA1BOB7_G900FXXU1BOB7_HOME.tar.md5`renombrando a **.tar** sin el **.md5** del hash.
+* Descomprimir el **.zip** para extraer el archivo **tar.md5** `G900FXXU1BOB7_G900FOXA1BOB7_G900FXXU1BOB7_HOME.tar.md5` `I9195UBUBNE2_I9195ZTOBNE2_I9195UBUBNE2_HOME.tar.md5`renombrandolos como **.tar** sin el **.md5** del hash.
 Ahora ya si lo copiamos en la carpeta original_update de la Kitchen como muestra el pantallazo:
 
 ![carpetas](imagenes/AndroGit6.png)
+
+![carpetas](imagenes/AndroGit31.png)
 
 ![original_update](imagenes/AndroGit5.png)
 
@@ -167,6 +169,7 @@ Seguimos.
 * **18**  Plugins de la cocina
 
 Fuente opciones Kitchen: [joshelu.es](http://www.joshelu.es/2013/05/07/como-cocinar-nuestra-propia-rom-para-android-la-cocina/#sthash.xk8PKVIP.dpbs)
+
 
 
 
